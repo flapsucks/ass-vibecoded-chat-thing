@@ -115,6 +115,7 @@ npm start
 - Is port 3000 open in the host's firewall?
 - Are both machines on the same Radmin/Tailscale network?
 - Try pinging the host IP first: `ping 192.168.x.x`
+- im so ayyyyyy
 
 **Messages not appearing**
 - Make sure all users typed the same Room Code (case-insensitive, auto-uppercased)
